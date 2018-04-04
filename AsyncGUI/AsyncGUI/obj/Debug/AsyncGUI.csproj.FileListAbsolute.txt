@@ -1,0 +1,9 @@
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\bin\Debug\AsyncGUI.exe.config
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\bin\Debug\AsyncGUI.exe
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\bin\Debug\AsyncGUI.pdb
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.csprojResolveAssemblyReference.cache
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.Form1.resources
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.Properties.Resources.resources
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.csproj.GenerateResource.Cache
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.exe
+C:\Users\zchristy\Documents\AsyncGUI\AsyncGUI\obj\Debug\AsyncGUI.pdb
